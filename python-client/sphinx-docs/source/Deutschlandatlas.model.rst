@@ -6,5 +6,5 @@ Module contents
 
 .. automodule:: Deutschlandatlas.model
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:

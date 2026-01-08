@@ -20,45 +20,45 @@ Deutschlandatlas.api\_client module
 
 .. automodule:: Deutschlandatlas.api_client
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 Deutschlandatlas.configuration module
 -------------------------------------
 
 .. automodule:: Deutschlandatlas.configuration
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 Deutschlandatlas.exceptions module
 ----------------------------------
 
 .. automodule:: Deutschlandatlas.exceptions
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 Deutschlandatlas.model\_utils module
 ------------------------------------
 
 .. automodule:: Deutschlandatlas.model_utils
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 Deutschlandatlas.rest module
 ----------------------------
 
 .. automodule:: Deutschlandatlas.rest
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 Module contents
 ---------------
 
 .. automodule:: Deutschlandatlas
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
